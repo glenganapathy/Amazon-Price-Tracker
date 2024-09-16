@@ -28,6 +28,8 @@ Update the following variables in the script:
   ### Gmail Setup:
      - Enable 2-Step Verification on your Gmail account.
      - Generate an App Password for the script to send emails.
+     - If you are using any other email provider, please ensure to change the smtp server address and ports accordingly. 
+
 
 
 ##### Worked on this as part of a module project from Dr. Angela Yu's course on Udemy titled: 100 Days of Code: The Complete Python Pro Bootcamp 
