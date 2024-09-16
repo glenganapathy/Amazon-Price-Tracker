@@ -26,8 +26,8 @@ Update the following variables in the script:
 - **`pswrd`**: Your Gmail app password (use an app password if two-factor authentication is enabled).
 
   ### Gmail Setup:
-     Enable 2-Step Verification on your Gmail account.
-     Generate an App Password for the script to send emails.
+     - Enable 2-Step Verification on your Gmail account.
+     - Generate an App Password for the script to send emails.
 
 
 ##### Worked on this as part of a module project from Dr. Angela Yu's course on Udemy titled: 100 Days of Code: The Complete Python Pro Bootcamp 
